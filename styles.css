@@ -63,3 +63,6 @@ span{
   padding-bottom: 10px;
   max-width: 800px;
 }
+h1, h2{
+  font-style: italic;
+}
