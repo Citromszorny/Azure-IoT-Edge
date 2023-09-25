@@ -50,3 +50,8 @@ span{
   font-weight: bold;
   color: cyan;
 }
+#tartalom{
+  width: 900px;
+  margin-top: 20px;
+  margin: auto;
+}
